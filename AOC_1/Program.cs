@@ -22,6 +22,7 @@ namespace AOC_1
             Console.WriteLine("Rezultat:" + numOfincreased.ToString()); 
 
 
+
         }
     }
 }
